@@ -1,0 +1,11 @@
+{
+  "name": "CarbonOS",
+  "description": "Premium AI-powered sustainability platform featuring a dynamic carbon score engine, predictive behavioral twins, future climate time machine, OCR receipt scanner, object carbon lens, and gamified community challenges.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
